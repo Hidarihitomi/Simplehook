@@ -1,0 +1,1 @@
+{"appName":"酷安","configs":"[{\"className\":\"com.bytedance.sdk.openadsdk.Ad\\nSlot.Builder\",\"enable\":true,\"fieldClassName\":\"\",\"fieldName\":\"\",\"hookPoint\":\"after\",\"methodName\":\"build\",\"mode\":2,\"params\":\"\",\"resultValues\":\"\",\"returnClassName\":\"\"}]","description":"去除信息流广告","enable":true,"id":98,"packageName":"com.coolapk.market","versionName":"12.5.0"}
