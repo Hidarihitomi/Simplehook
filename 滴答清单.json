@@ -1,0 +1,1 @@
+{"appName":"滴答清单","configs":"[{\"className\":\"com.ticktick.task.data.User\",\"enable\":true,\"fieldClassName\":\"\",\"fieldName\":\"\",\"hookPoint\":\"after\",\"methodName\":\"isPro\",\"mode\":0,\"params\":\"\",\"resultValues\":\"true\",\"returnClassName\":\"\"}]","description":"解锁高级会员","enable":true,"id":119,"packageName":"cn.ticktick.task","versionName":"6.3.4.0"}
