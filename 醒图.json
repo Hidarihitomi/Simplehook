@@ -1,0 +1,1 @@
+{"appName":"醒图","configs":"[{\"className\":\"com.xt.retouch.subscribe.api.a.d\",\"enable\":true,\"fieldClassName\":\"\",\"fieldName\":\"\",\"hookPoint\":\"after\",\"methodName\":\"f\",\"mode\":0,\"params\":\"\",\"resultValues\":\"true\",\"returnClassName\":\"\"}]","description":"解锁会员功能，but不点亮图标","enable":true,"id":119,"packageName":"com.xt.retouch","versionName":"6.9.0"}
