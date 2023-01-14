@@ -1,0 +1,1 @@
+{"appName":"Joyose","configs":"[{\"className\":\"com.xiaomi.joyose.cloud.g$a\",\"enable\":true,\"fieldClassName\":\"\",\"fieldName\":\"\",\"hookPoint\":\"after\",\"methodName\":\"run\",\"mode\":2,\"params\":\"\",\"resultValues\":\"\",\"returnClassName\":\"\"}]","description":"去除性能控制(启用后清除一次joyose数据)","enable":true,"id":42,"packageName":"com.xiaomi.joyose","versionName":"2.2.50"}
